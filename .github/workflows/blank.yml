@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'URL to recovery/boot image'
         required: true
-        default: 'https://github.com/momo54181/action_build_twrp_device_tree/raw/main/recovery.img'
+        default: 'https://1135-user-share-free-download-cdn.123295.com/123-744/effe14d5/1814346575-0/effe14d551bb0658c64ccadc775c16e8/c-m92?v=5&t=1762784328&r=6KWF3Q&bzc=2&bzs=313831343334363537353a34363432323531313a36373130383836343a31383134333436353735&ur=valgeegvpigaan&urn=0&s=1762784328fb713766940977610ee3e3e7435aab4c&bzp=0&bi=1541508687&filename=boot.img&x-mf-biz-cid=5886f569-ae9a-4e3c-ad94-3c77aed0b68d-5baabb&ndcp=1&cache_type=1'
 
 jobs:
   generate-device-tree:
