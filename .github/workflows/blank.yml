@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'URL to recovery/boot image'
         required: true
-        default: 'https://mynameisz-max/action_build_twrp_device_tree/blob/raw/main/boot.img'
+        default: 'https://github.com/mynameisz-max/action_build_twrp_device_tree/blob/master/boot.img'
 
 jobs:
   generate-device-tree:
